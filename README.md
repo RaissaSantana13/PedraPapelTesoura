@@ -4,3 +4,4 @@ Projeto simples de um mini game de pedra papel e tesoura falando qualquer coisa 
 e \ef \sees se
  WdA wQ WwAW
  EFwef aWEwe 
+a wertgWET weWEwe WE
